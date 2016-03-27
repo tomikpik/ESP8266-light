@@ -2,7 +2,7 @@
 <DataChest>
   <Data name="ComboBoxFlashBaudrate.Text">
     <Type>String</Type>
-    <Value>512000</Value>
+    <Value>576000</Value>
   </Data>
   <Data name="ComboBoxFlashSize.ItemIndex">
     <Type>Integer</Type>
@@ -10,11 +10,11 @@
   </Data>
   <Data name="ComboBoxFlashSpeed.ItemIndex">
     <Type>Integer</Type>
-    <Value>0</Value>
+    <Value>3</Value>
   </Data>
   <Data name="ComboBoxSPIMode.ItemIndex">
     <Type>Integer</Type>
-    <Value>1</Value>
+    <Value>0</Value>
   </Data>
   <Data name="FrameConfigLine1.Checked">
     <Type>Boolean</Type>
@@ -22,7 +22,7 @@
   </Data>
   <Data name="FrameConfigLine1.FilePath">
     <Type>String</Type>
-    <Value>C:\Users\Tom\Desktop\nodemcu\nodemcu-dev-16-modules-2016-03-08-21-45-44-integer.bin</Value>
+    <Value>C:\Users\Tom\Documents\Projects\ESP8266-light\nodemcu-dev-24-modules-2016-03-25-21-20-58-integer.bin</Value>
   </Data>
   <Data name="FrameConfigLine1.Offset">
     <Type>String</Type>
