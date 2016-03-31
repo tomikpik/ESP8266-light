@@ -16633,3 +16633,290 @@
   <thread>13</thread>
   <message>Reconnect: Success.</message>
 </record>
+<record>
+  <date>2016-03-29T08:47:43</date>
+  <millis>1459234063258</millis>
+  <sequence>1517</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open file mqttLib.lua</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:43</date>
+  <millis>1459234063261</millis>
+  <sequence>1518</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File name: C:\Users\Tom\Documents\Projects\ESP8266-light\light\mqttLib.lua</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:43</date>
+  <millis>1459234063262</millis>
+  <sequence>1519</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to load file mqttLib.lua</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:43</date>
+  <millis>1459234063308</millis>
+  <sequence>1520</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Loading mqttLib.lua: Success.</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:43</date>
+  <millis>1459234063308</millis>
+  <sequence>1521</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open "mqttLib.lua": Success.</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:47</date>
+  <millis>1459234067580</millis>
+  <sequence>1522</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open file wifiLib.lua</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:47</date>
+  <millis>1459234067580</millis>
+  <sequence>1523</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File name: C:\Users\Tom\Documents\Projects\ESP8266-light\light\wifiLib.lua</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:47</date>
+  <millis>1459234067581</millis>
+  <sequence>1524</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to load file wifiLib.lua</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:47</date>
+  <millis>1459234067613</millis>
+  <sequence>1525</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Loading wifiLib.lua: Success.</message>
+</record>
+<record>
+  <date>2016-03-29T08:47:47</date>
+  <millis>1459234067614</millis>
+  <sequence>1526</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open "wifiLib.lua": Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:51:52</date>
+  <millis>1459443112943</millis>
+  <sequence>1527</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:51:52</date>
+  <millis>1459443112944</millis>
+  <sequence>1528</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:51:52</date>
+  <millis>1459443112947</millis>
+  <sequence>1529</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:51:52</date>
+  <millis>1459443112948</millis>
+  <sequence>1530</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:51:52</date>
+  <millis>1459443112948</millis>
+  <sequence>1531</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File changed. Ask before closing.</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:00</date>
+  <millis>1459443120965</millis>
+  <sequence>1532</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file gpioLib.lua</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:00</date>
+  <millis>1459443120966</millis>
+  <sequence>1533</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file gpioLib.lua ...</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:00</date>
+  <millis>1459443120968</millis>
+  <sequence>1534</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file gpioLib.lua: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:00</date>
+  <millis>1459443120975</millis>
+  <sequence>1535</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:00</date>
+  <millis>1459443120976</millis>
+  <sequence>1536</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:00</date>
+  <millis>1459443120977</millis>
+  <sequence>1537</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File changed. Ask before closing.</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:03</date>
+  <millis>1459443123701</millis>
+  <sequence>1538</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file init.lua</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:03</date>
+  <millis>1459443123702</millis>
+  <sequence>1539</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file init.lua ...</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:03</date>
+  <millis>1459443123703</millis>
+  <sequence>1540</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file init.lua: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:03</date>
+  <millis>1459443123749</millis>
+  <sequence>1541</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2016-03-31T18:52:03</date>
+  <millis>1459443123750</millis>
+  <sequence>1542</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
