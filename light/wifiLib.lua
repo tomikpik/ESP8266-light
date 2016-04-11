@@ -10,7 +10,7 @@ function init()
     wifi.setmode(wifi.STATIONAP)
     
     wifi.sta.config("FialkaNet", "mamamelemasoa")
-    --wifi.sta.config("Turris", "zettor11")
+   -- wifi.sta.config("Turris", "zettor11")
 end
 
 function setupListeners(mqttLib)

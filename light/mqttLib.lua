@@ -35,6 +35,8 @@ function init(cid,gpl)
                 if(stateIn.reqID~=nil)then
                     if(gpioLib.setPower(state,stateIn.power))then
                         sendHeartbeat(stateIn.reqID)    
+                    else 
+                        sendHeartbeat(stateIn.reqID)   
                     end   
                 end
             end    
@@ -101,14 +103,15 @@ function startHeartbeat()
     state.clientid = client_id 
     state.version = "0.2.0" 
     state.increment = 0
-    state.power = 0
+    state.power = 240
         
     tmr.register(0, heartbeat_delay, tmr.ALARM_AUTO, function() 
         --print("sending heartbeat")
         sendHeartbeat("")
     end)
     tmr.start(0)
-    
+
+    --gpioLib.setPower(state,240)
     
 
     
