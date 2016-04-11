@@ -1,9 +1,12 @@
+--demo file for trying nodeMCU commands 
+
+--list all files
 l = file.list();
 for k,v in pairs(l) do
     print(k,v)
 end
 
-
+--cjson demo
 state = {}
 state.client_name = "ESP_chipid" 
 state.version = "0.1" 

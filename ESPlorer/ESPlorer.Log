@@ -452,3 +452,378 @@
   <thread>13</thread>
   <message>FileSaveESP: Serial port not open. Cancel.</message>
 </record>
+<record>
+  <date>2016-04-11T16:05:41</date>
+  <millis>1460383541631</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file mqttLib.lua</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:41</date>
+  <millis>1460383541632</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file mqttLib.lua ...</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:41</date>
+  <millis>1460383541633</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file mqttLib.lua: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:41</date>
+  <millis>1460383541636</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileSaveESP: Serial port not open. Cancel.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:42</date>
+  <millis>1460383542971</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File changed. Ask before closing.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544052</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file mqttLib.lua</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544053</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file mqttLib.lua ...</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544055</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file mqttLib.lua: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544058</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544059</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544060</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File changed. Ask before closing.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544518</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file wifiLib.lua</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544519</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file wifiLib.lua ...</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544520</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file wifiLib.lua: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544523</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544524</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544525</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File changed. Ask before closing.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544921</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file gpioLib.lua</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544922</millis>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file gpioLib.lua ...</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544924</millis>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file gpioLib.lua: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544927</millis>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544928</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:44</date>
+  <millis>1460383544929</millis>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File changed. Ask before closing.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545311</millis>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file files.lua</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545312</millis>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file files.lua ...</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545314</millis>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file files.lua: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545317</millis>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545318</millis>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545319</millis>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File changed. Ask before closing.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545747</millis>
+  <sequence>75</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file init.lua</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545748</millis>
+  <sequence>76</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file init.lua ...</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545749</millis>
+  <sequence>77</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file init.lua: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545815</millis>
+  <sequence>78</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2016-04-11T16:05:45</date>
+  <millis>1460383545815</millis>
+  <sequence>79</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
